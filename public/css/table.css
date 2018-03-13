@@ -1,0 +1,39 @@
+#header-fixed {
+    position: fixed;
+    top: 0px; 
+    display:none;
+    background-color:#EEEEEE;
+	border: 1px solid #1C6EA4;
+}
+
+#header-fixed th {
+	border: 1px solid #AAAAAA;
+	padding: 3px 2px;
+}
+
+#header-fixed {
+	border-collapse: collapse;
+}
+
+#myTable {
+  border: 1px solid #1C6EA4;
+  background-color: #EEEEEE;
+  width: 100%;
+  text-align: center;
+  border-collapse: collapse;
+}
+#myTable td, #myTable th {
+  border: 1px solid #AAAAAA;
+  padding: 3px 2px;
+
+}
+#myTable tbody td {
+  font-size: 13px;
+}
+#myTable tbody tr:nth-child(even) {
+  background: #D0E4F5;
+}
+
+body {
+	margin-top: 0px;
+}
