@@ -4,7 +4,7 @@ Infinite scroll table in HTML, CSS, javascript, MongoDB and, jQuery. Rows are ad
 1. npm install  
 2. npm run seed  
 3. npm start  
-Note:  
+* Note:  
 1. make sure your MongoDB is up and running  
 2. This project is only for reference
 
