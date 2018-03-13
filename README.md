@@ -1,5 +1,5 @@
 # pulseData-challenge  
-# Infinite scroll table in HTML, CSS, javascript, MongoDB and, jQuery. Rows are added and removed at both events- scroll up and scroll down  
+Infinite scroll table in HTML, CSS, javascript, MongoDB and, jQuery. Rows are added and removed at both events- scroll up and scroll down  
 # Installation -  
 1. npm install  
 2. npm run seed  
